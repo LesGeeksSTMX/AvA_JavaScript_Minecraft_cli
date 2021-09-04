@@ -1,0 +1,22 @@
+{
+  "name": "ava_ai",
+  "version": "0.0.1",
+  "description": "A cool artificial intelligence. It's cool. I guess it is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaximeGeek's Team",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "minecrafthawkeye": "^1.2.7",
+    "mineflayer": "^3.11.0",
+    "mineflayer-blockfinder": "0.0.7",
+    "mineflayer-pathfinder": "^1.7.0",
+    "mineflayer-pvp": "^1.0.2",
+    "mineflayer-radar": "0.0.2",
+    "node-wit": "^6.0.1",
+    "prismarine-viewer": "^1.19.3"
+  }
+}
