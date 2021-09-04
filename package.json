@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.1.0",
+    "gtts": "^0.2.1",
     "minecrafthawkeye": "^1.2.7",
     "mineflayer": "^3.11.0",
     "mineflayer-blockfinder": "0.0.7",
